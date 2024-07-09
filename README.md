@@ -1,1 +1,1 @@
-A simple gradebook program. To run this make sure you have minGNU installed and run the script `g++ gradebook.cpp student.cpp -o Gradebook` in your comand line terminal to turn it into an executable then run it
+A simple gradebook program. To run this make sure you have minGW installed and run the script `g++ gradebook.cpp student.cpp -o Gradebook` in your comand line terminal to turn it into an executable then run it
